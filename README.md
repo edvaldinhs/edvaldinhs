@@ -3,7 +3,7 @@
   <h3 align="center">Edvaldo Henrique</h3>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BA2FA&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BA2FA&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a>
 
 
 <details> 
@@ -24,7 +24,5 @@
   <br/>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=edvaldinhs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
 
 </details>
