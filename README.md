@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="edvaldohenriqueceu@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/yCuSSbP.png"/></a>
-  &#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;
-<a href="https://wa.me/5584998025665"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://i.imgur.com/DoJpUH0.png"></a>
-  &#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;
-  <a href="https://t.me/Edvaldinhs" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/LKzaMUc.png"/></a>
-  &#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;&#CE0BE7;
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=edvaldohenriqueceu@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/6vk30T3.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://wa.me/5584998025665"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://i.imgur.com/4iL925a.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Edvaldinhs" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/AlostOg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
