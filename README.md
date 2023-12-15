@@ -3,8 +3,9 @@
   <h3 align="center">Edvaldo Henrique</h3>
 </p>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BA2FA&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a>
-
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=1BA2FA&center=true&vCenter=true&random=false&width=435&lines=Full-stack+web+and+app+Developer;%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2;Love+to+Learn+new+Things;%F0%9F%90%A2" alt="Typing SVG" /></a>
+</p>
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
