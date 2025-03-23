@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">🐢</h2>
+    <h2 align="center">👨‍💻</h2>
   <h3 align="center">Edvaldo Henrique</h3>
 </p>
 
