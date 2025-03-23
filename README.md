@@ -43,6 +43,6 @@
 
 ### 📄 Portfolio
 
-<p>You can check my [portfolio](https://edinho.netlify.app/) here:</p>
+You can check my [portfolio](https://edinho.netlify.app/) here:
 <h3>https://edinho.netlify.app/</h3>
 
