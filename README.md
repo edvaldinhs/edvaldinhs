@@ -1,62 +1,77 @@
-<img src="/img/banner.jpg" />
+<img src="img/banner.gif" />
+
+<p align="center">
+<a href="https://edinho.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-050505?style=for-the-badge&logo=htmx&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=edvaldohenriqueceu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-050505?style=for-the-badge&logo=Mail.Ru&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5584998025665" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-050505?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/eddy.justeddy/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-050505?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 <br>
 
-<img src="/img/banner-720p.gif" />
-<br>
+<h2 align="center"><em>About  me </em></h2>
 
-<img src="/banner.gif" />
+<img src="img/Eddy.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
-<!-- 
-<p align="center">
-    <h2 align="center">👨‍💻</h2>
-  <h3 align="center">Edvaldo Henrique</h3>
+<p>
+<em><b>Hello! I'm Edvaldo Henrique </b></em>.
+</p>
+<p>
+I’m a Computer Science student who views coding as both a playground and a toolset. I enjoy building projects with complex structures to push my limits, but I’m equally at home developing Android and web apps. Every project is a chance to learn something new and build something useful or fun.
 </p>
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=1BA2FA&center=true&vCenter=true&random=false&width=435&lines=Full-stack+web+and+app+Developer;%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2%F0%9F%90%A2;Love+to+Learn+new+Things;%F0%9F%90%A2" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=edvaldohenriqueceu@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/6vk30T3.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://wa.me/5584998025665"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://i.imgur.com/4iL925a.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Edvaldinhs" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/AlostOg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 <br/>
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Android" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br />
-
-#
-
-<h2>📊 Stats and Activity</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edvaldinhs's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edvaldinhs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+   <img src="https://img.icons8.com/?size=100&id=9496&format=png&color=FFFFFF" width="15"/>   <em><b> Studying at the Federal University of Rio Grande do Norte (UFRN) </b></em> <br/>
 </p>
-<br>
 
-### 📄 Portfolio
+<br/>
+<br/>
+<h2 align="center"> <em> Technologies </em> </h2>
 
-You can check my [portfolio](https://edinho.netlify.app/) here:
-<h3>https://edinho.netlify.app/</h3>
- -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<h2 align="center"><em>Plus  me</em></h2>
+
+<img src="img/Ydde.gif" width="250" align="left" style="margin-right: 20px;" />
+<br/>
+
+<p>
+<em><b>When I'm not at my desk</b></em>...
+</p>
+<p>
+I'm probably working on something creative. I have a background in music production, theatre, and 3D modeling, and I also enjoy sewing and photography. I’m a big believer that these kinds of hobbies expand your perspective and make you a better, more creative programmer.
+</p>
