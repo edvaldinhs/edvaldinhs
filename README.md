@@ -1,3 +1,12 @@
+<img src="/img/banner.jpg" />
+<br>
+
+<img src="/img/banner-720p.gif" />
+<br>
+
+<img src="/banner.gif" />
+
+<!-- 
 <p align="center">
     <h2 align="center">👨‍💻</h2>
   <h3 align="center">Edvaldo Henrique</h3>
@@ -50,4 +59,4 @@
 
 You can check my [portfolio](https://edinho.netlify.app/) here:
 <h3>https://edinho.netlify.app/</h3>
-
+ -->
