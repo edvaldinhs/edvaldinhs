@@ -1,4 +1,4 @@
-<img src="img/banner-720p.gif" />
+<img src="img/banner.gif" />
 
 <p align="center">
 <a href="https://edinho.netlify.app" target="_blank">
