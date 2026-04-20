@@ -38,20 +38,23 @@ I’m a Computer Science student who views coding as both a playground and a too
 </p>
 
 <br/>
+<br/>
 
-<h2 align="center"><em>Plus  me</em></h2>
+<h2 align="center"><em> </em></h2>
 
 <img src="img/Ydde.gif" width="250" align="left"/>
 <br/>
 
-<p style="margin-left: 10px;">
+<br/>
+<br/>
+<br/>
+<p>
 <em><b>When I'm not at my desk</b></em>...
 </p>
-<p style="margin-left: 20px;">
+<p>
 I'm probably working on something creative. I have a background in music production, theatre, and 3D modeling, and I also enjoy sewing and photography. I’m a big believer that these kinds of hobbies expand your perspective and make you a better, more creative programmer.
 </p>
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -81,3 +84,11 @@ I'm probably working on something creative. I have a background in music product
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+<br/>
+
+<h2 align="center""><em> Statistics </em> </h2>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edvaldinhs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
