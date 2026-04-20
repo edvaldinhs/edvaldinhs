@@ -20,7 +20,7 @@
 
 <h2 align="center"><em>About  me </em></h2>
 
-<img src="img/Eddy.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="img/Eddy.gif" width="300" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
@@ -41,16 +41,20 @@ I’m a Computer Science student who views coding as both a playground and a too
 
 <h2 align="center"><em>Plus  me</em></h2>
 
-<img src="img/Ydde.gif" width="250" align="left" style="margin-right: 20px;" />
+<img src="img/Ydde.gif" width="250" align="left"/>
 <br/>
 
-<p>
+<p style="margin-left: 10px;">
 <em><b>When I'm not at my desk</b></em>...
 </p>
-<p>
+<p style="margin-left: 20px;">
 I'm probably working on something creative. I have a background in music production, theatre, and 3D modeling, and I also enjoy sewing and photography. I’m a big believer that these kinds of hobbies expand your perspective and make you a better, more creative programmer.
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <h2 align="center"> <em> Technologies </em> </h2>
