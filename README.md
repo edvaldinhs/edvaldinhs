@@ -1,4 +1,4 @@
-<img src="img/banner.gif" />
+<img src="img/banner-720p.gif" />
 
 <p align="center">
 <a href="https://edinho.netlify.app" target="_blank">
@@ -38,6 +38,20 @@ I’m a Computer Science student who views coding as both a playground and a too
 </p>
 
 <br/>
+
+<h2 align="center"><em>Plus  me</em></h2>
+
+<img src="img/Ydde.gif" width="250" align="left" style="margin-right: 20px;" />
+<br/>
+
+<p>
+<em><b>When I'm not at my desk</b></em>...
+</p>
+<p>
+I'm probably working on something creative. I have a background in music production, theatre, and 3D modeling, and I also enjoy sewing and photography. I’m a big believer that these kinds of hobbies expand your perspective and make you a better, more creative programmer.
+</p>
+
+<br/>
 <br/>
 <h2 align="center"> <em> Technologies </em> </h2>
 
@@ -62,16 +76,4 @@ I’m a Computer Science student who views coding as both a playground and a too
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<h2 align="center"><em>Plus  me</em></h2>
-
-<img src="img/Ydde.gif" width="250" align="left" style="margin-right: 20px;" />
-<br/>
-
-<p>
-<em><b>When I'm not at my desk</b></em>...
-</p>
-<p>
-I'm probably working on something creative. I have a background in music production, theatre, and 3D modeling, and I also enjoy sewing and photography. I’m a big believer that these kinds of hobbies expand your perspective and make you a better, more creative programmer.
 </p>
