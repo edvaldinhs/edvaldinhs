@@ -80,7 +80,6 @@ I'm probably working on something creative. I have a background in music product
   <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
