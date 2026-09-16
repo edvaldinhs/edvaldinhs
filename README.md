@@ -88,6 +88,6 @@ I'm probably working on something creative. I have a background in music product
 
 <h2 align="center""><em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edvaldinhs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph-eight-delta.vercel.app/graph?username=edvaldinhs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
